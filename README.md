@@ -20,8 +20,5 @@ This project demonstrates an **interactive navigation menu** for a website that 
 - Skills
 - Contact
 
-## Live Demo
-([https://harishkumar636r.github.io/PRODIGY_TrackCode_Task1/](https://harishkumar636r.github.io/PRODIGY_TrackCode_Task1/))
-
 ## Author
 Harish Kumar
