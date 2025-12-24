@@ -19,9 +19,6 @@ This project demonstrates an **interactive navigation menu** for a website that 
 - Services
 - Skills
 - Contact
-
-## Live Demo
-[View Live Project](file:///D:/Final%20Project%201/index.html#home)
-
+  
 ## Author
 Harish Kumar
