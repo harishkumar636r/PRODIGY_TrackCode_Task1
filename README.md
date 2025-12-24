@@ -20,5 +20,8 @@ This project demonstrates an **interactive navigation menu** for a website that 
 - Skills
 - Contact
 
+## Live Demo
+[View Live Project](.github)
+
 ## Author
 Harish Kumar
