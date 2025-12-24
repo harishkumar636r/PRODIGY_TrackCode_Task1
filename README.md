@@ -21,4 +21,4 @@ This project demonstrates an **interactive navigation menu** for a website that 
 - Contact
   
 ## Author
-Harish Kumar
+Harish Kumar R
