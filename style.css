@@ -1,4 +1,4 @@
-/* Reset */
+
 * {
   margin: 0;
   padding: 0;
@@ -10,7 +10,7 @@ body {
   line-height: 1.6;
 }
 
-/* Navigation Bar */
+
 nav {
   position: fixed;
   top: 0;
@@ -48,7 +48,7 @@ nav ul li a:hover {
   border-bottom: 2px solid #ffcc00;
 }
 
-/* Sections */
+
 section {
   padding: 100px 60px;
   min-height: 100vh;
@@ -71,7 +71,7 @@ p {
   font-size: 18px;
 }
 
-/* Footer */
+
 footer {
   text-align: center;
   padding: 20px;
@@ -79,7 +79,7 @@ footer {
   color: white;
 }
 
-/* Smooth Scrolling */
+
 html {
   scroll-behavior: smooth;
 }
